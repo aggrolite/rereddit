@@ -8,7 +8,7 @@ Browse reddit from a shell
 
 `rereddit`
 
-# license
+## license
 
 MIT - See LICENSE file for details.
 
