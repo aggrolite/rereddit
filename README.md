@@ -8,6 +8,10 @@ Browse reddit from a shell
 
 `rereddit -help`
 
+# license
+
+MIT - See LICENSE file for details.
+
 ## see also
 [github.com/jroimartin/gocui](https://github.com/jroimartin/gocui)
 
