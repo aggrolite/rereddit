@@ -10,7 +10,6 @@ import (
 )
 
 func main() {
-
 	// New "root" GUI.
 	g, err := gocui.NewGui(gocui.OutputNormal)
 	if err != nil {
@@ -29,7 +28,6 @@ func main() {
 	if err := g.MainLoop(); err != nil && err != gocui.ErrQuit {
 		log.Panicln(err)
 	}
-
 }
 
 func link(g *gocui.Gui) error {
